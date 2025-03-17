@@ -67,9 +67,11 @@ Used Remote Desktop to connect to your Windows 10 VM public IP Address 20.62.43.
 
 17 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
 
+Installed WireShark on window 10 vm and opened WireShark and started packet capture.
+
 18 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
 
-19 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png ">
+
 
 
 
