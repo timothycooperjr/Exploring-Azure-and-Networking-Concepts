@@ -55,19 +55,22 @@ Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtua
 
 13 -> Installed and opened remote desktop connection (RDC)
       Used Remote Desktop to connect to your Windows 10 VM public IP Address 20.62.43.117
+      
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/13.png">
+
 
 14 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
 
 Logged in using Username and Password
-Username: labuser
-Password: Cyberlab123!
+(Username: labuser, Password: Cyberlab123!)
 
 15 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
 
 
 Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
+
 16 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/16.png">
+
 
 17 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
 
