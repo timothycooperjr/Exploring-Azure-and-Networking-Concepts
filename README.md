@@ -59,6 +59,16 @@ Finished creating 2 VM’s one windows and the other Linux.
 Installed and opened remote desktop connection (RDC)
 Used Remote Desktop to connect to your Windows 10 VM public IP Address 20.62.43.117
 
+14 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
+
+15 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
+
+16 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/16.png">
+
+
+
+
+
 
 
 
