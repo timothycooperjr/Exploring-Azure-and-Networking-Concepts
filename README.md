@@ -43,8 +43,9 @@ Created VM (Virtual Machine) with new v-net and subnet
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/50c6838b5ff55194848b155d57ab235edef4d291/7.jpeg">
 
-Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtual Network (both Virtual Network staying the same)
-9-> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/9.png">
+9-> Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtual Network (both Virtual Network staying the same)
+
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/9.png">
 
 10-> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/10.png">
 
@@ -58,11 +59,9 @@ Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtua
       
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/13.png">
 
-
-14 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
-
-Logged in using Username and Password
+14 -> Logged in using Username and Password
 (Username: labuser, Password: Cyberlab123!)
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
 
 15 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
 
