@@ -70,14 +70,12 @@ Created VM (Virtual Machine) with new v-net and subnet
 
 17 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
 
-18 --> Opened PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
+18 --> Installed WireShark on window 10 vm and opened WireShark and started packet capture.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
-
-Installed WireShark on window 10 vm and opened WireShark and started packet capture.
 
 20--> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/cbc329756f2e187b6ec2371190856be0be965280/20.png">
 
-21 --> Observed Ping request and replies within WireShark
+21 --> PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/21.2.png">
 
 22 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/1762b444ca2583e02cb5acccdd64e72ea793bf22/22.png">
