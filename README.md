@@ -47,42 +47,42 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/9.png">
 
-5 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/10.png">
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/10.png">
 
-6 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/11.png">
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/11.png">
 
-7 -> Finished creating 2 VM’s one windows and the other Linux.
+5 -> Finished creating 2 VM’s one windows and the other Linux.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/12.png">
 
-8 -> Installed and opened remote desktop connection (RDC)
+6 -> Installed and opened remote desktop connection (RDC)
       Used Remote Desktop to connect to your Windows 10 VM public IP Address 20.62.43.117
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/13.png">
 
-9 -> Logged in using Username and Password
+7 -> Logged in using Username and Password
 (Username: labuser, Password: Cyberlab123!)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
 
-10 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
 
-11 -> Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
+8 -> Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/16.png">
 
-12 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
 
-13 --> Installed WireShark on window 10 vm and opened WireShark and started packet capture.
+9 --> Installed WireShark on window 10 vm and opened WireShark and started packet capture.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
 
-14--> Within wireshark, I filtered for ICMP Traffic only.
+10 --> Within wireshark, I filtered for ICMP Traffic only.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/cbc329756f2e187b6ec2371190856be0be965280/20.png">
 
-21 --> PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
+11 --> PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/1762b444ca2583e02cb5acccdd64e72ea793bf22/22.png">
 
-Retrieved the private IP address of the Ubuntu VM (linux-vm) and attemptrf to ping it from within the Windows 10 VM
+12 --> Retrieved the private IP address of the Ubuntu VM (linux-vm) and attemptrf to ping it from within the Windows 10 VM
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/21.2.png">
 
-22 --> Observed Ping request and replies within WireShark
+13 --> Observed Ping request and replies within WireShark
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
 
 
