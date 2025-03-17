@@ -59,6 +59,8 @@ Created VM (Virtual Machine) with new v-net and subnet
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/13.png">
 
 
+
+
 14 -> Logged in using Username and Password
 (Username: labuser, Password: Cyberlab123!)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
