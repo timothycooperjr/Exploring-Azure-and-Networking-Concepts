@@ -73,6 +73,15 @@ Installed WireShark on window 10 vm and opened WireShark and started packet capt
 
 20--> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/cbc329756f2e187b6ec2371190856be0be965280/20.png">
 
+Opened PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
+
+21 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/21.2.png">
+
+22 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/23.png">
+
+23 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
+
+Observed Ping request and replies within WireShark
 
 
 
