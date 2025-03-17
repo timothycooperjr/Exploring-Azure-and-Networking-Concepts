@@ -43,37 +43,37 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/50c6838b5ff55194848b155d57ab235edef4d291/7.jpeg">
 
-9--> Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtual Network (both Virtual Network staying the same)
+4--> Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtual Network (both Virtual Network staying the same)
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/9.png">
 
-10-> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/10.png">
+5 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/10.png">
 
-11 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/11.png">
+6 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/11.png">
 
-12 -> Finished creating 2 VM’s one windows and the other Linux.
+7 -> Finished creating 2 VM’s one windows and the other Linux.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/12.png">
 
-13 -> Installed and opened remote desktop connection (RDC)
+8 -> Installed and opened remote desktop connection (RDC)
       Used Remote Desktop to connect to your Windows 10 VM public IP Address 20.62.43.117
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/13.png">
 
-14 -> Logged in using Username and Password
+9 -> Logged in using Username and Password
 (Username: labuser, Password: Cyberlab123!)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
 
-15 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
+10 -> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
 
-16 -> Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
+11 -> Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/16.png">
 
-17 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
+12 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
 
-18 --> Installed WireShark on window 10 vm and opened WireShark and started packet capture.
+13 --> Installed WireShark on window 10 vm and opened WireShark and started packet capture.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
 
-20--> Within wireshark, I filtered for ICMP Traffic only.
+14--> Within wireshark, I filtered for ICMP Traffic only.
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/cbc329756f2e187b6ec2371190856be0be965280/20.png">
 
 21 --> PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
