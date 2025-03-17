@@ -82,7 +82,8 @@ Created VM (Virtual Machine) with new v-net and subnet
 22 --> PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/1762b444ca2583e02cb5acccdd64e72ea793bf22/22.png">
 
-23 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
+23 --> Observed Ping request and replies within WireShark
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
 
 
 
