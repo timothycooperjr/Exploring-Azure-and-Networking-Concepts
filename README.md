@@ -58,9 +58,6 @@ Created VM (Virtual Machine) with new v-net and subnet
       Used Remote Desktop to connect to your Windows 10 VM public IP Address 20.62.43.117
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/13.png">
 
-
-
-
 14 -> Logged in using Username and Password
 (Username: labuser, Password: Cyberlab123!)
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/14.png">
@@ -83,7 +80,7 @@ Installed WireShark on window 10 vm and opened WireShark and started packet capt
 21 --> Observed Ping request and replies within WireShark
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/21.2.png">
 
-22 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/23.png">
+22 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/1762b444ca2583e02cb5acccdd64e72ea793bf22/22.png">
 
 23 --> <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
 
