@@ -47,15 +47,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
      Selected the resource Group that was previously created.
      Configured the VM to Windows 10
      Created Username and Password
-     Under the Networking Tab, created a new virtual network (vnet) and titled it vnet
-     Complete the setup and deployed the VM
+     Under the Networking Tab, created a new virtual network (vnet) and titled it "vnet"
+     Completed the setup and deployed the VM
 
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/375cbda14c3c3ac18e143fee25cd9dd6dca77e7a/6.jpeg"><br />
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/50c6838b5ff55194848b155d57ab235edef4d291/7.jpeg">
 
-4--> Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtual Network (both Virtual Network staying the same)
+4--> Created Linux (Ubuntu) VM with the previously selected Resource Group and Virtual Network as "vnet" (both Virtual Network staying the same)
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/9.png">
 
