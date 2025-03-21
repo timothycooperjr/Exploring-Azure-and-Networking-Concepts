@@ -31,18 +31,23 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-1 --> Pulled up Microsoft Azure https://portal.azure.com/ Created Resource Group
-
+1 --> Pulled up Microsoft Azure https://portal.azure.com/ 
+      Created Resource Group
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/7605c6284a77601d4890880754ce93fb92685782/2.jpeg">
 
-2 -->Resource Group Name: RG-Network-Activities
+2 -->Created Resource Group Name: RG-Network-Activities
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/83b3f03e33d9b34e0cb4d358403c221405f268ca/3.jpeg">
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/1ee17510e69d8d1d5a445e78a120c981ed24a1c6/4.jpeg">
 
-3 -->Created VM (Virtual Machine) with new v-net and subnet
+3 -->Created Virtual Machine (VM)
+      Selected the resource Group that was previously created.
+      Configured the VM to Windows 10
+      Created Username and Password
+      Under the Networking Tab, created a new virtual network (vnet) and titled it vnet
+      Complete the setup and deployed the VM
 
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/375cbda14c3c3ac18e143fee25cd9dd6dca77e7a/6.jpeg"><br />
