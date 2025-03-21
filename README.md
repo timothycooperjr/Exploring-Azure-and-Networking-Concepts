@@ -28,8 +28,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-1 --> Pulled up Microsoft Azure https://portal.azure.com/ 
-      Created Resource Group
+1 --> Pulled up Microsoft Azure
+Logged into Azure Portal https://portal.azure.com/
+Create a Resource Group
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/7605c6284a77601d4890880754ce93fb92685782/2.jpeg">
 
