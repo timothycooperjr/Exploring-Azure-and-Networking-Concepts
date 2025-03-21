@@ -91,15 +91,19 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
 
 10 --> Within wireshark, I filtered for ICMP Traffic only.
+
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/cbc329756f2e187b6ec2371190856be0be965280/20.png">
 
 11 --> PowerShell Command Prompt from the start menu. (Typed PowerShell in search engine of the start menu)
+
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/1762b444ca2583e02cb5acccdd64e72ea793bf22/22.png">
 
 12 --> Retrieved the private IP address of the Ubuntu VM (linux-vm) and attemptrf to ping it from within the Windows 10 VM
+
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/21.2.png">
 
 13 --> Observed Ping request and replies within WireShark
+
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
 
 
