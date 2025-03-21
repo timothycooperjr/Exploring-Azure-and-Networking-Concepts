@@ -21,7 +21,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-1 - Create Virtual Machines in Azure.
+1 - Create Virtual Machines in Azure.     
 
 2 - Observe ICMP traffic between Virtual Machines using Wireshark.
 
