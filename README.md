@@ -106,6 +106,42 @@ Create a Resource Group
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b42650f79369e566f96227bf2ba305f815022ab4/24.png">
 
+14 --> Configuring a Firewall (Network Security Group)
+Initiatied a Perpetual/Non-stop ping from Windows 10 VM to Ubuntu VM (Using PowerShell Ping 10.0.0.5-t)
+
+15 --> Firewall will block all incoming trafic to Linux Ubuntu VM and stop the pings.
+
+16 --> Create/Add a Rule
+Destination Port Rangers *(ICMP doesnt use a port)
+Protocol - ICMPv4 (Ping uses ICMPv4 protocol)
+Action - Deny (The Firewall will drop the traffic)
+Priority 290 (Which puts the rule above the 300 SSH rule)
+
+17 --> Disabled Incoming (Inbound)
+Request Timed out in PowerShell
+Request -> Reply -> Request -t
+
+18 --> Deleted Firewall (Security Rule)
+
+19 --> RE-enabled the ICMP Traffic in Wireshark and the command line Ping activity
+
+20 --> Controc + C to Stop the Ping Activity
+
+Observe SSH Traffic
+Logged into Windows VM
+Opened up Wireshark and start a new packet capture
+
+Retrieved the IP address form the Linux VM
+
+Opened PowerShell and typed : SSH labuser @10.0.0.6
+SSH (SecureShell) - used to make a secure connection from one computer to another computer.
+From windows computer SSH connection to linux computer and observe the traffic 
+Filter for SSH Traffic Only by typing SSH in WireShark. (SSH uses TCP Port 22)
+From Windows 10 VM I attempted to 
+ 
+
+
+
 
 
 
