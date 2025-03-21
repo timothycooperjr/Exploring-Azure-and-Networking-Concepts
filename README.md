@@ -44,11 +44,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 3 -->Created Virtual Machine (VM)
 
-     Selected the resource Group that was previously created.
-     Configured the VM to Windows 10
-     Created Username and Password
-     Under the Networking Tab, created a new virtual network (vnet) and titled it "vnet"
-     Completed the setup and deployed the VM
+     -Selected the resource Group that was previously created.
+     -Configured the VM to Windows 10
+     -Created Username and Password
+     -Under the Networking Tab, created a new virtual network (vnet) and titled it "vnet"
+     -Completed the setup and deployed the VM
 
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/375cbda14c3c3ac18e143fee25cd9dd6dca77e7a/6.jpeg"><br />
