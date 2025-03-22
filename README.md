@@ -186,6 +186,8 @@ Request -> Reply -> Request -t
 3. Type commands within the SSH session and observe the SSH traffic in Wireshark.
 4. Exit the SSH session: `exit`.
 
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/b84a648b19c8faf67c3868b1fe395423e0191fa7/SSH.png">
+
 ### Observe DHCP Traffic
 
 1. In Wireshark, filter for DHCP traffic.
