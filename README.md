@@ -127,17 +127,18 @@ Request -> Reply -> Request -t
 
 20 --> Controc + C to Stop the Ping Activity
 
-Observe SSH Traffic
-Logged into Windows VM
-Opened up Wireshark and start a new packet capture
+## Part 2: Observe ICMP Traffic
 
-Retrieved the IP address form the Linux VM
-
-Opened PowerShell and typed : SSH labuser @10.0.0.6
-SSH (SecureShell) - used to make a secure connection from one computer to another computer.
-From windows computer SSH connection to linux computer and observe the traffic 
-Filter for SSH Traffic Only by typing SSH in WireShark. (SSH uses TCP Port 22)
-From Windows 10 VM I attempted to 
+1. Use [Microsoft Remote Desktop](https://apps.microsoft.com/store) to connect to your Windows 10 Virtual Machine (if on Mac, install the client first).
+2. **Install Wireshark** on the Windows 10 VM:
+   - Download and install Wireshark from [https://www.wireshark.org/](https://www.wireshark.org/).
+3. Open Wireshark and start a packet capture.
+4. Filter for ICMP traffic in Wireshark.
+5. Retrieve the private IP address of the Ubuntu VM and attempt to ping it from the Windows 10 VM:
+   - Open Command Prompt or PowerShell and run: `ping <Ubuntu VM Private IP>`.
+   - Observe the ping requests and replies in Wireshark.
+6. From the Windows 10 VM, ping a public website (e.g., `www.google.com`) and observe the ICMP traffic in Wireshark.
+ 
 ## Part 3: Configure a Firewall (Network Security Group)
 
 ### Observe ICMP Traffic with Firewall Changes
