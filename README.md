@@ -138,6 +138,43 @@ SSH (SecureShell) - used to make a secure connection from one computer to anothe
 From windows computer SSH connection to linux computer and observe the traffic 
 Filter for SSH Traffic Only by typing SSH in WireShark. (SSH uses TCP Port 22)
 From Windows 10 VM I attempted to 
+## Part 3: Configure a Firewall (Network Security Group)
+
+### Observe ICMP Traffic with Firewall Changes
+
+1. Initiate a continuous ping from your Windows 10 VM to the Ubuntu VM:
+   - Command: `ping <Ubuntu VM Private IP> -t`.
+2. Open the Network Security Group associated with the Ubuntu VM.
+3. Disable inbound ICMP traffic in the Network Security Group.
+4. Observe the ICMP traffic in Wireshark and the command line Ping activity (should stop).
+5. Re-enable ICMP traffic in the Network Security Group.
+6. Observe the ICMP traffic in Wireshark and the command line Ping activity (should resume).
+7. Stop the ping activity.
+
+<p>
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/17c0bf559d8304a0cc2164007124d81135ea8385/2.png"></p>
+
+<p>
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/17c0bf559d8304a0cc2164007124d81135ea8385/3.png"></p>
+
+<p>
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/17c0bf559d8304a0cc2164007124d81135ea8385/4.png"></p>
+
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall.png">
+
+<p>
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/17c0bf559d8304a0cc2164007124d81135ea8385/5.png">
+</p>
+
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%202.png">
+
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%203.png">
+
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%204.png">
+
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%205.png">
+
+<img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%206.png">
  
 
 
