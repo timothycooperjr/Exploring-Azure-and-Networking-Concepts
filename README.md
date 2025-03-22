@@ -203,6 +203,8 @@ Request -> Reply -> Request -t
 2. From the Windows 10 VM, use `nslookup` to find IP addresses for websites:
    - Example: `nslookup google.com`, `nslookup disney.com`.
 3. Observe the DNS traffic in Wireshark.
+4. 
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/7d776839335876ff103d7ce505a65945693dcbde/DNS.png">
 
 ### Observe RDP Traffic
 
