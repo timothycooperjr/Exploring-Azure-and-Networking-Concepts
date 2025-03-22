@@ -176,6 +176,15 @@ From Windows 10 VM I attempted to
 
 <img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%206.png">
 
+### Observe SSH Traffic
+
+1. In Wireshark, start a new packet capture and filter for SSH traffic.
+2. From the Windows 10 VM, SSH into the Ubuntu VM:
+   - Command: `ssh <username>@<Ubuntu VM Private IP>`.
+   - Enter the password when prompted.
+3. Type commands within the SSH session and observe the SSH traffic in Wireshark.
+4. Exit the SSH session: `exit`.
+
 ### Observe DHCP Traffic
 
 1. In Wireshark, filter for DHCP traffic.
@@ -184,6 +193,19 @@ From Windows 10 VM I attempted to
 3. Observe the DHCP traffic in Wireshark.
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/c4ee181d005383896d3bc7fcd133601f53515fcb/DHCP%202.png">
+
+### Observe DNS Traffic
+
+1. In Wireshark, filter for DNS traffic.
+2. From the Windows 10 VM, use `nslookup` to find IP addresses for websites:
+   - Example: `nslookup google.com`, `nslookup disney.com`.
+3. Observe the DNS traffic in Wireshark.
+
+### Observe RDP Traffic
+
+1. In Wireshark, filter for RDP traffic:
+   - Use the filter: `tcp.port == 3389`.
+2. Observe the continuous RDP traffic between the Windows 10 VM and your local machine.
 
  
 
