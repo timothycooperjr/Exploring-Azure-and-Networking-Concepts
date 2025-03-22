@@ -90,9 +90,14 @@ Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wiresha
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/17.png">
 
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
+
 Installed WireShark on window 10 vm and opened WireShark and started packet capture.
 
-<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/c197a3ed08253125d11d30fe650da3e1b0d2fe1d/Packet%20Capture%202.png">
+
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/c197a3ed08253125d11d30fe650da3e1b0d2fe1d/Packet%20Capture%201.png">
+
 
 ## Part 2: Observe ICMP Traffic
 
