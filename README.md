@@ -84,7 +84,7 @@ Logged in using Username and Password
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/15.png">
 
-Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
+Dowloaded and Installed Wireshark via internet [https://www.wireshark.org](https://www.wireshark.org)
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/5e9eef3599a01daf9e20c9c995a37ce48b2fa55c/16.png">
 
@@ -92,7 +92,7 @@ Dowloaded Wireshark via internet [https://www.wireshark.org](https://www.wiresha
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/3d775501f6c2651b083d7e1f79fe449e60e000a2/18.png">
 
-Installed WireShark on window 10 vm and opened WireShark and started packet capture.
+In Windows 10 vm,  opened WireShark and started packet capture.
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/c197a3ed08253125d11d30fe650da3e1b0d2fe1d/Packet%20Capture%202.png">
 
