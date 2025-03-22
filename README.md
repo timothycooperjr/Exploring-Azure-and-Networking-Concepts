@@ -212,6 +212,7 @@ Request -> Reply -> Request -t
    - Use the filter: `tcp.port == 3389`.
 2. Observe the continuous RDP traffic between the Windows 10 VM and your local machine.
 
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/6061122901208fed5cb13e0860f679402eb9f3ca/RDP.png">
  
 
 
