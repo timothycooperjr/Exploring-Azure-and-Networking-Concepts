@@ -28,9 +28,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-Pulled up Microsoft Azure
-Logged into Azure Portal https://portal.azure.com/
-Create a Resource Group
+## Part 1: Create Virtual Machines
+
+1. Log in to [Azure Portal](https://portal.azure.com/).
+2. **Create a Resource Group**:
+   - Navigate to "Resource Groups" and click "Create."
+   - Provide a name for your Resource Group and select a region.
+   - Click "Review + Create," then "Create."
 
 <img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/7605c6284a77601d4890880754ce93fb92685782/2.jpeg">
 
