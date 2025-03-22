@@ -177,6 +177,7 @@ Request -> Reply -> Request -t
 
 <img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%206.png">
 
+## Part 4: Observe Various Protocol Traffic (SSH, DHCP ,DNS, and RDP) using WireShark
 ### Observe SSH Traffic
 
 1. In Wireshark, start a new packet capture and filter for SSH traffic.
