@@ -175,6 +175,16 @@ From Windows 10 VM I attempted to
 <img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%205.png">
 
 <img src="https://github.com/timothycooperjr/timothycooperjr-Configuring-a-Firewall-Network-Security-Group-/blob/f25ae257ecb5afd863057d16cf53d6cf5da78fde/Configuring%20a%20Firewall%206.png">
+
+### Observe DHCP Traffic
+
+1. In Wireshark, filter for DHCP traffic.
+2. From the Windows 10 VM, issue a new IP address:
+   - Open PowerShell as admin and run: `ipconfig /renew`.
+3. Observe the DHCP traffic in Wireshark.
+
+<img src="https://github.com/timothycooperjr/Exploring-Azure-and-Networking-Concepts/blob/c4ee181d005383896d3bc7fcd133601f53515fcb/DHCP%202.png">
+
  
 
 
